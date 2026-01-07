@@ -26,6 +26,5 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-yt-dlp -x --audio-format mp3 --audio-quality 128K --embed-thumbnail --add-metadata "$1"
 
-
+yt-dlp -f "bv+ba/b" --merge-output-format mp4 "$1"
