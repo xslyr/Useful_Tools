@@ -11,6 +11,6 @@ Usage: just copy files to your /usr/local/bin(or create alias) and type name fil
 |  `extrair_audio.sh`  | Extract mp3 from mp4 local file  |
 |  `hd_clean.sh`  | Clean temporary files and call gdmap to inspect data overview manually |
 | `convert_ogg_mp3.sh` | Convert ogg file parameter to mp3 |
-| `git-start.sh` | Script for ssh-add gthub |
+| `git-start.sh` | Script for ssh-add github |
 | `random_pass.sh` | Simple random string generator |
 | `trim_image.py` | Trim png files removing void borders. |
