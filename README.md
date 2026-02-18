@@ -10,7 +10,8 @@ Usage: just copy files to your /usr/local/bin(or create alias) and type name fil
 |  `baixar video.sh`  | Download video mp4 from youtube video |
 |  `extrair_audio.sh`  | Extract mp3 from mp4 local file  |
 |  `hd_clean.sh`  | Clean temporary files and call gdmap to inspect data overview manually |
-| `convert_ogg_mp3.sh` | Convert ogg file parameter to mp3 |
+| `convert_ogg_mp3.sh` | Convert ogg file to mp3 |
+| `convert_mp4_webm.sh` | Convert mp4 file to webm |
 | `git-start.sh` | Script for ssh-add github |
 | `random_pass.sh` | Simple random string generator |
 | `trim_image.py` | Trim png files removing void borders. |
